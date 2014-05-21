@@ -1,13 +1,8 @@
- 1, おにぎり おにぎり
+ 1, おにぎり おにぎり、お寿司
  2,
  3,tsukada-GTR
  4,
  5,iwamoto
- 1, おにぎり, サンドイッチ
- 2,:)
- 3,tsukada, kiriyama
- 4,orz=3
- 5,Good bye!
  6, Hello !  How are you!
  7,piyo piyo
  8,hogehoge
