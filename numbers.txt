@@ -1,10 +1,10 @@
- 1, おにぎり
+﻿ 1, おにぎり おにぎり
  2,
  3,tsukada
  4,
- 5,
+ 5,iwamoto
  6, Hello !  How are you!
- 7,
+ 7,piyo piyo
  8,hogehoge
  9,
 10,
