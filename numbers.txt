@@ -1,8 +1,8 @@
- 1, おにぎり
+ 1, おにぎり, サンドイッチ
  2,
- 3,tsukada
+ 3,tsukada, kiriyama
  4,
- 5,
+ 5,Good bye!
  6, Hello !  How are you!
  7,
  8,hogehoge
