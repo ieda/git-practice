@@ -1,7 +1,7 @@
  1, おにぎり, サンドイッチ
- 2,
+ 2,:)
  3,tsukada, kiriyama
- 4,
+ 4,:-)
  5,Good bye!
  6, Hello !  How are you!
  7,
